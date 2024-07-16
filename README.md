@@ -1,7 +1,11 @@
 # Game Art Showcase
 
-This repo is dedicated to showcase my artwork for games. I'm still learning, so expect rough results.
+Welcome to my Game Art Showcase! This repository is dedicated to displaying my artwork inspired by various games. As I'm still learning, some pieces may be a bit rough, but I hope you enjoy the journey with me.
 
-You can find previews of the vector graphics on the `preview` directory. The source graphic lives on the `vector-graphics` directory.
+You can find previews of the vector graphics in the `preview` directory. The source files are located in the `vector-graphics` directory.
 
-All the work here was created using Inkscape.
+All artwork in this repository was created using Inkscape.
+
+## Disclaimer
+
+The artwork in this repository includes characters from well-known games, which are the property of their respective owners. I do not claim any ownership over these characters, nor do I intend to infringe on anyone's rights. These drawings were created out of admiration and appreciation for the original works. If there are any concerns regarding the content, please feel free to contact me, and I will address them promptly.
